@@ -20,4 +20,20 @@ public class DescendingOrder {
         }
         return Long.parseLong(answer);
     }
+
+    /**
+     * 다른사람의 풀이
+      */
+    String res = "";
+    public int reverseInt(int n){
+        res = "";
+        Integer.toString(n).chars().sorted().forEach(c -> res = Character.valueOf((char)c) + res);
+        return Integer.parseInt(res);
+    }
+
+    // 아래는 테스트로 출력해 보기 위한 코드입니다.
+    public static void  main(String[] args){
+        DescendingOrder ri = new DescendingOrder();
+        System.out.println(ri.reverseInt(118372));
+    }
 }
