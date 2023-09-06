@@ -1,4 +1,4 @@
-package LV1;
+package saebyeol.LV1;
 
 /**
  * 문제 설명

@@ -1,4 +1,4 @@
-package LV1;
+package saebyeol.LV1;
 
 import java.util.Arrays;
 import java.util.Comparator;

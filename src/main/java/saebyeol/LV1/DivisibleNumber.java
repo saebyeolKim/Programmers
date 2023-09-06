@@ -1,4 +1,4 @@
-package LV1;
+package saebyeol.LV1;
 
 import java.util.ArrayList;
 import java.util.Collections;

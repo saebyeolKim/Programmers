@@ -1,6 +1,4 @@
-package LV1;
-
-import java.util.Arrays;
+package saebyeol.LV1;
 
 /**
  * 문제 설명

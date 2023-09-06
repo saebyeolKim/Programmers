@@ -1,7 +1,4 @@
-package LV1;
-
-import com.example.demo.DemoApplication;
-import org.springframework.boot.SpringApplication;
+package saebyeol.LV1;
 
 /**
  * 문제 설명
